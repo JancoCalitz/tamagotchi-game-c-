@@ -1,0 +1,75 @@
+C:\Users\tshep\source\repos\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\tshep\source\repos\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\tshep\source\repos\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\tshep\source\repos\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\tshep\source\repos\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\tshep\source\repos\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\tshep\source\repos\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\tshep\source\repos\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\tshep\source\repos\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\tshep\source\repos\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\tshep\source\repos\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.AddPlayer.resources
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.FrmInstructions.resources
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Player.resources
+C:\Users\Rachel\Downloads\FlappyBird (2)\FlappyBird\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.AddPlayer.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.FrmInstructions.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Player.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Classes.Main.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Classes.frmEditItem.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Classes.frmItemCollection.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Classes.Welcome.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.Classes.Zelda.resources
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alma Kotze\source\Homework excercises AND learning\FlappyBird (2)\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\bin\Debug\Properties\AssemblyInfo.cs
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\bin\Debug\FlappyBird.exe.config
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\bin\Debug\FlappyBird.exe
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\bin\Debug\FlappyBird.pdb
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\bin\Debug\Interop.WMPLib.dll
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\Interop.WMPLib.dll
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.AddPlayer.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.Classes.frmEditItem.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.Classes.frmItemCollection.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.Classes.Main.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.Classes.Welcome.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.Classes.Zelda.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.FrmInstructions.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.Player.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.exe
+C:\Users\Janco\Desktop\u22574213 Group 44 INF 164 Group Assignment\obj\Debug\FlappyBird.pdb

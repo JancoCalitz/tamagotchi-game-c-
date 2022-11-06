@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <table>
+        <tr>
+            <th >Group Number: 44</th>
+        </tr>
+        <tr>
+            <th>#</th>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Contributions</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Alma Kotzè</td>
+            <td>u22574213@tuks.co.za</td>
+            <td>Tamogotchi</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Janco Calitz</td>
+            <td>u21534439@tuks.co.za</td>
+            <td>Tamogotchi</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Rachel Ratcliff</td>
+            <td>u22525913@tuks.co.za</td>
+            <td>Arcade Game</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Tshepiso Mofokeng</td>
+            <td>u18041932@tuks.co.za</td>
+            <td>Arcade Game</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Rorisang Lobelo</td>
+            <td>u19361786@tuks.co.za</td>
+            <td>HTML, CSS and Javascript</td>
+        </tr>
+    </table>
+
+    <input type="button" value="Hide/Show" style="background-color:aqua; color:black;" id="btn" onclick="clicked()"/> <br><br>
+    <img id="img" src="flappybird.png"/>
+</body>
+<script>
+    function clicked(){
+        if(img==1){
+            document.getElementById("img").style.display="inline"
+            return img=0;
+        }
+        else{
+            document.getElementById("img").style.display="none"
+            return img=1;
+        }
+    }
+</script>
+</html>

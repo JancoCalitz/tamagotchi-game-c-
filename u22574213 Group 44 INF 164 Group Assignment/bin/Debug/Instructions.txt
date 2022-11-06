@@ -1,0 +1,12 @@
+Rules for Tamagouchi
+1. Choose a pet
+2. Keep pet fed
+3. Pet needs to sleep.
+4. Play game and win toys to keep pet happy.
+5. Buy and refund books and movies in the pet's collection.
+6. If pet is left unsupervised, it will DIE.
+
+Rules for Arcade Game
+1. Use space bar to flap up and down
+2. Do not fly into green pipes else game will end
+3. 1 point for every pipe you pass.
